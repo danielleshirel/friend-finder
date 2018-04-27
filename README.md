@@ -6,10 +6,6 @@
 
 *Friend Finder* application is meant to simulate a simple dating app. The application is implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) server on the back end and the [Materialize](http://materializecss.com/) CSS framework on the front end.
 
-## Demo
-	
-*Friend Finder* is deployed to Heroku. Please check it out [here](https://fierce-fortress-60021.herokuapp.com/).
-
 ## Installation
 
 To install the application follow the instructions below:
